@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/task-tracker-react-app-with-localstorage/static/css/main.a0db5e6a.chunk.css",
+    "main.js": "/task-tracker-react-app-with-localstorage/static/js/main.8378d0ab.chunk.js",
+    "main.js.map": "/task-tracker-react-app-with-localstorage/static/js/main.8378d0ab.chunk.js.map",
+    "runtime-main.js": "/task-tracker-react-app-with-localstorage/static/js/runtime-main.ae9a6e7f.js",
+    "runtime-main.js.map": "/task-tracker-react-app-with-localstorage/static/js/runtime-main.ae9a6e7f.js.map",
+    "static/js/2.8dd9a7fc.chunk.js": "/task-tracker-react-app-with-localstorage/static/js/2.8dd9a7fc.chunk.js",
+    "static/js/2.8dd9a7fc.chunk.js.map": "/task-tracker-react-app-with-localstorage/static/js/2.8dd9a7fc.chunk.js.map",
+    "static/js/3.8cbd7026.chunk.js": "/task-tracker-react-app-with-localstorage/static/js/3.8cbd7026.chunk.js",
+    "static/js/3.8cbd7026.chunk.js.map": "/task-tracker-react-app-with-localstorage/static/js/3.8cbd7026.chunk.js.map",
+    "index.html": "/task-tracker-react-app-with-localstorage/index.html",
+    "static/css/main.a0db5e6a.chunk.css.map": "/task-tracker-react-app-with-localstorage/static/css/main.a0db5e6a.chunk.css.map",
+    "static/js/2.8dd9a7fc.chunk.js.LICENSE.txt": "/task-tracker-react-app-with-localstorage/static/js/2.8dd9a7fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/task-tracker-react-app-with-localstorage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae9a6e7f.js",
+    "static/js/2.8dd9a7fc.chunk.js",
+    "static/css/main.a0db5e6a.chunk.css",
+    "static/js/main.8378d0ab.chunk.js"
+  ]
+}
